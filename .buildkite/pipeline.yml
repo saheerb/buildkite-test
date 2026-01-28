@@ -1,0 +1,5 @@
+steps:
+  - label: ":construction_worker: Build"
+    command: chmod +x test.sh;./test.sh
+    key: build
+
